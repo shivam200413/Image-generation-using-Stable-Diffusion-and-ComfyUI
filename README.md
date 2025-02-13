@@ -39,7 +39,7 @@ Download the Stable Diffusion model weights and place them in the appropriate fo
 
 Run ComfyUI:
 
-python main.py
+'python main.py'
 
 ## 🎯 Usage
 
