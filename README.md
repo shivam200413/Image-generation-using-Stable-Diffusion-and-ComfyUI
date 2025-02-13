@@ -1,30 +1,30 @@
-#Image Generation using Stable Diffusion and ComfyUI
+🖼️ Image Generation using Stable Diffusion and ComfyUI
 
-Overview
+🚀 Overview
 
 This project leverages Stable Diffusion, a powerful AI model for generating high-quality images, with ComfyUI, a user-friendly interface designed for enhanced accessibility and control.
 
-Features
+✨ Features
 
-Generate AI-powered images using Stable Diffusion
+🎨 Generate AI-powered images using Stable Diffusion
 
-Intuitive and modular workflow with ComfyUI
+🖥️ Intuitive and modular workflow with ComfyUI
 
-Customizable parameters for fine-tuned image generation
+⚙️ Customizable parameters for fine-tuned image generation
 
-Supports various models and extensions
+🔌 Supports various models and extensions
 
-Installation
+🛠️ Installation
 
-Prerequisites
+📌 Prerequisites
 
-Python 3.8+
+🐍 Python 3.8+
 
-NVIDIA GPU with CUDA support (Recommended)
+🎮 NVIDIA GPU with CUDA support (Recommended)
 
-Git
+🔗 Git
 
-Setup
+🔧 Setup
 
 Clone the repository:
 
@@ -41,7 +41,7 @@ Run ComfyUI:
 
 python main.py
 
-Usage
+🎯 Usage
 
 Launch the UI and load the model.
 
