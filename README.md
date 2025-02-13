@@ -41,7 +41,7 @@ Run ComfyUI:
 
 python main.py
 
-🎯 Usage
+## 🎯 Usage
 
 Launch the UI and load the model.
 
