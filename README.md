@@ -1,4 +1,4 @@
-Image Generation using Stable Diffusion and ComfyUI
+#Image Generation using Stable Diffusion and ComfyUI
 
 Overview
 
