@@ -1,10 +1,10 @@
 # 🖼️ Image Generation using Stable Diffusion and ComfyUI
 
-🚀 Overview
+## 🚀 Overview
 
 This project leverages Stable Diffusion, a powerful AI model for generating high-quality images, with ComfyUI, a user-friendly interface designed for enhanced accessibility and control.
 
-✨ Features
+## ✨ Features
 
 🎨 Generate AI-powered images using Stable Diffusion
 
@@ -14,7 +14,7 @@ This project leverages Stable Diffusion, a powerful AI model for generating high
 
 🔌 Supports various models and extensions
 
-🛠️ Installation
+## 🛠️ Installation
 
 📌 Prerequisites
 
@@ -24,7 +24,7 @@ This project leverages Stable Diffusion, a powerful AI model for generating high
 
 🔗 Git
 
-🔧 Setup
+## 🔧 Setup
 
 Clone the repository:
 
