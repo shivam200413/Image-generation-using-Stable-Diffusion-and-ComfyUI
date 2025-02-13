@@ -33,13 +33,13 @@ cd stable-diffusion-comfyui
 
 Install dependencies:
 
-pip install -r requirements.txt
+" pip install -r requirements.txt "
 
 Download the Stable Diffusion model weights and place them in the appropriate folder (instructions provided in the repository).
 
 Run ComfyUI:
 
-'python main.py'
+" python main.py "
 
 ## 🎯 Usage
 
